@@ -1,1 +1,4 @@
-select name from Customer where NOT referee_id = 2 || referee_id IS NULL;
+# Write your MySQL query statement below
+select name 
+from Customer 
+where  COALESCE(referee_id,0)!=2;
