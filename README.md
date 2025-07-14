@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Harshinibattula/Leetcode-SQL-/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Harshinibattula/Leetcode-SQL-/tree/master/1942-primary-department-for-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Harshinibattula/Leetcode-SQL-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshinibattula/Leetcode-SQL-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Harshinibattula/Leetcode-SQL-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
